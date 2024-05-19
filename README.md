@@ -1,7 +1,5 @@
-# rectangle-maker
-Small Program to print a rectangle of custom dimensions in the console
-
 # Rectangle Maker
+Small Program to print a rectangle of custom dimensions in the console
 
 ## Description
 This project provides an example code to create a rectangle with specified dimensions.

@@ -5,18 +5,18 @@ Small Program to print a rectangle of custom dimensions in the console
 This project provides an example code to create a rectangle with specified dimensions.
 
 ## Parameters
-- **a**: Height of the rectangle
-- **b**: Width of the rectangle
+- **a**: Width of the rectangle
+- **b**: Height of the rectangle
 
 ## Usage
-To create a rectangle, call the `make_rectangle` function with the desired height and width.
+To create a rectangle, call the `make_rectangle` function with the desired width and height.
 
 ```python
 make_rectangle(a, b)
 ```
 
 ### Example
-Creating a rectangle with a height of 5 and a width of 15:
+Creating a rectangle with a width of 15 and a height of 15:
 
 ```python
 make_rectangle(5, 15)
